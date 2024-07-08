@@ -16,18 +16,19 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Eu gosto assim... amostradinho</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          João Amostradinho
         </p>
+        <div className="tenor-gif-embed" data-postid="10766570176138083195" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%">
+          <a href="https://tenor.com/view/amostradinho-gosto-assim-gif-10766570176138083195">Amostradinho Gosto Assim GIF</a>from 
+          <a href="https://tenor.com/search/amostradinho-gifs">Amostradinho GIFs</a>
+        </div>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
